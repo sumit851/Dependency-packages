@@ -10,8 +10,22 @@
   "bin": {
     "backend-setup": "./index.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumit851/Dependency-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sumit851/Dependency-packages/issues"
+  },
+  "homepage": "https://github.com/sumit851/Dependency-packages",
+  "keywords": [
+    "cli",
+    "backend",
+    "setup",
+    "node",
+    "scaffold"
+  ],
+  "author": "Sumit Dalai ",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.4.1",
