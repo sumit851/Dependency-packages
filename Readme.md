@@ -7,10 +7,8 @@ A simple command-line tool to quickly install common Node.js backend development
 Install the CLI globally using npm:
 
 ```bash
-npm install -g backend-setup-cli
+npm install -g quick-backend-deps
 ```
-
-_(Note: Replace `backend-setup-cli` with your actual package name if different)_
 
 ## Usage
 
