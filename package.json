@@ -1,6 +1,6 @@
 {
-  "name": "backend-setup-cli",
-  "version": "1.0.0",
+  "name": "quick-backend-deps",
+  "version": "1.0.1",
   "description": "A CLI tool for setting up backend development dependencies",
   "type": "module",
   "main": "index.js",
